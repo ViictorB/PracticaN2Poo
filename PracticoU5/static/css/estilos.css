@@ -1,0 +1,109 @@
+/*---Bienvenida---*/
+#TituloColegio{
+    text-align: center;
+    font-size: 3em;
+    background-color: #292727;
+    color: rgb(255, 228, 195);
+    margin-bottom: 30px;
+}
+
+
+#ImagenEscuela{
+    padding: 0;
+    margin-right: 80px;
+}
+
+.textoInicio{
+    text-align: center;
+    color: #292727;
+    font-size: 2rem;
+}
+.textoInicio:hover{
+    color: rgb(170, 103, 1);
+}
+
+/*---inicio.html---*/
+
+.formularioInicio{
+    text-align: center;
+}
+
+.textoformu{
+   color: #292727;
+   font-size: 2rem;
+}
+
+.boton{
+    background-color: #292727;
+    color: rgb(255, 228, 195);;
+}
+.boton:hover{
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.555);
+    transition: all 0.0s linear;
+    background-color: #1b1a1a;
+}
+
+/*---Pagina Preceptor---*/
+
+#ContenidoCentral{
+    text-align: center;
+}
+
+#TituloDeBienvenida{
+    font-size:  2rem;
+    color: #292727;
+}
+
+.enlace{
+    font-size: 22px;
+    color: rgb(170, 103, 1);
+}
+.enlace:hover{
+    color: rgb(207, 139, 37);
+    font-size: 25px;
+    transition: all 0.2s linear;
+}
+
+/*---Pagina Preceptor---*/
+
+#TextoDeSeleccionCurso{
+    font-size: 24px;
+    color:  #292727;
+    padding-right: 5px;
+}
+
+/*---Asistencia Curso---*/
+.Contenedor{
+    text-align: center;
+}
+
+.listaAlumnos{
+    font-size: 15px;
+    background-color: #292727;
+}
+
+#Tit{
+    font-size: 32px;
+}
+
+#SubTit{
+    font-size: 27px;
+}
+
+/*---Confirmar Asistencia---*/
+
+.nombreAlum{
+    font-size: 35px;
+}
+
+#TextoAsis{
+    font-size: 20px;
+    padding-right: 10px;
+}
+#TextoAsis:hover{
+    font-size: 22px;
+    color: rgb(170, 103, 1);
+    transition: all 0.2s linear;
+}
+
+/*---Confirmar Asistencia---*/
